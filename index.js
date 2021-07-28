@@ -16,4 +16,4 @@ program
 
 const { length, save, numbers, symbols } = program.opts();
 
-// 
+// function
