@@ -1,0 +1,17 @@
+{
+  "name": "password-genrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.1.0"
+  }
+}
